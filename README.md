@@ -24,10 +24,10 @@ El desarrollo e implementación de este proyecto fue realizado en conjunto por l
 
 | Nombre Completo | Número de Control | Roles |
 | :--- | :---: | :---: |
-| 👩‍💻 CHAVIRA RUÍZ JAZMIN | `24580007` | Desarrollo & BD |
-| 👩‍💻 DURAN TOLENTINO AMANDA NOHEMI | `24580009` | Desarrollo & BD |
-| 👩‍💻 GARCIA ESPINOZA ANDREA | `24580011` | Desarrollo & BD |
-| 🧑‍💻 ROMERO RAMIREZ ALEXANDER | `24580028` | Desarrollo & BD |
+| 👩‍💻 CHAVIRA RUÍZ JAZMÍN | `24580007` | Desarrollo & BD |
+| 👩‍💻 DURÁN TOLENTINO AMANDA NOHEMÍ | `24580009` | Desarrollo & BD |
+| 👩‍💻 GARCÍA ESPINOZA ANDREA | `24580011` | Desarrollo & BD |
+| 🧑‍💻 ROMERO RAMÍREZ ALEXANDER | `24580028` | Desarrollo & BD |
 | 👩‍💻 VILLAREAL VILLALOBOS NAIBY ADRIANA | `24580914` | Desarrollo & BD |
 
 ---
